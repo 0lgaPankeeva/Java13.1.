@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d6e9acb-e1c0-4c35-a504-173489bdfb1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java13.1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java13.1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java13.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java13.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java13.1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java13.1/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Java13.1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D9zSDdohQ6BusXTF7viG1HamJf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "C:/Users/panke/IdeaProjects/Java13.1/src/main/java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean test" />
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ProductManagerTest">
+    <configuration name="ProductManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java13.1." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ProductManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerTest.searchByTheWordAuthor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java13.1." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ProductManagerTest" />
+      <option name="METHOD_NAME" value="searchByTheWordAuthor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerTest.searchByTheWordBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java13.1." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ProductManagerTest" />
+      <option name="METHOD_NAME" value="searchByTheWordBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerTest.searchByTheWordPhone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java13.1." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ProductManagerTest" />
+      <option name="METHOD_NAME" value="searchByTheWordPhone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java13.1." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.RepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductManagerTest" />
+        <item itemvalue="JUnit.ProductManagerTest.searchByTheWordAuthor" />
+        <item itemvalue="JUnit.RepositoryTest" />
+        <item itemvalue="JUnit.ProductManagerTest.searchByTheWordBook" />
+        <item itemvalue="JUnit.ProductManagerTest.searchByTheWordPhone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d6e9acb-e1c0-4c35-a504-173489bdfb1b" name="Changes" comment="" />
+      <created>1660126096100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660126096100</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ru.netology.Book" memberName="name" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
