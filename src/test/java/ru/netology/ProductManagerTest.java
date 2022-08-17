@@ -1,6 +1,5 @@
 package ru.netology;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
@@ -61,19 +60,6 @@ public class ProductManagerTest {
         assertArrayEquals(expected, actual);
     }
 
-   // @Test
-    //public void searchByTheWordAuthor() {
-    //    manager.add(book1);
-    //    manager.add(book2);
-    //    manager.add(book3);
-
-
-    //    Product[] expected = {cost};
-     //   Product[] actual = manager.searchBy("Author1");
-
-     //   assertArrayEquals(expected, actual);
-   // }
-
     @Test
     public void searchByTheWordSmartphone() {
         manager.add(smartphone1);
@@ -112,11 +98,6 @@ public class ProductManagerTest {
 
         assertArrayEquals(expected, actual);
     }
-
-
-
-
-
 }
 
 
